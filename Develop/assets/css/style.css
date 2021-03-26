@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Here is the header and Hero */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,6 +55,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* Here is styling of the main content and services */
 
 .content {
     width: 75%;
@@ -128,6 +132,8 @@ p {
     font-size: 36px;
 }
 
+/* Here is the styling of the benefits */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -189,6 +195,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Here is the footer */
 
 .footer {
     padding: 30px;
